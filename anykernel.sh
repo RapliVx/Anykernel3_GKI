@@ -10,8 +10,8 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=topaz
-device.name2=tapas
+device.name1=
+device.name2=
 supported.versions=
 '; } # end properties
 
