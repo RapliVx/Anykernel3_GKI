@@ -50,10 +50,10 @@ flash_boot;
 
 sleep 3
 ui_print ""
-ui_print "- Kernel Installed Successfully"
+ui_print "- Kernel Installed Successfully."
 sleep 1
-ui_print "- DWYOR (Do With Your Own Risk)"
+ui_print "- Only compatible with one pilot."
 sleep 1
-ui_print "- Done And Reboot"
+ui_print "- /system/usr: synchronized hearts detected."
 sleep 1
-ui_print "- ARA ARA"
+ui_print "- HIDUP JOKOWII !!!!!!!!!"
