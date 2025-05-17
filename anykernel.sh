@@ -5,14 +5,16 @@
 # begin properties
 properties() { '
 kernel.string=
-do.devicecheck=1
+do.devicecheck=0
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=topaz
-device.name2=tapas
+device.name1=
+device.name2=
 supported.versions=
+supported.patchlevels=
+supported.vendorpatchlevels=
 '; } # end properties
 
 # shell variables
@@ -50,10 +52,10 @@ flash_boot;
 
 sleep 3
 ui_print ""
-ui_print "- Kernel Installed Successfully"
+ui_print "- Kernel Installed Successfully."
 sleep 1
-ui_print "- DWYOR (Do With Your Own Risk)"
+ui_print "- Only compatible with one pilot."
 sleep 1
-ui_print "- Done And Reboot"
+ui_print "- /system/usr: synchronized hearts detected."
 sleep 1
-ui_print "- ARA ARA"
+ui_print "- HIDUP JOKOWII !!!!!!!!!"
